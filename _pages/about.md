@@ -10,7 +10,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ### Image Credits
 
-Photo by  
+Unsplash  
 [https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](Michael Dziedzic)
 
 
