@@ -6,6 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Links"
-    url: /_pages/usefulllinks.md
+    url: /_pages/links.html
   - title: "About"
     url: /about/
